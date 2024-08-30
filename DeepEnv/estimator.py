@@ -74,7 +74,6 @@ class FuelEstimator:
             - Expected sampling rate is 4 seconds, higher or lower sampling rate might induce 
 		noisier fuel flow. Resampling data before estimating fuel flow is recommanded.
 
-
         Warnings:
             If the aircraft type code is not supported.
 
@@ -184,7 +183,7 @@ class FuelEstimator:
             'CLMB_FF',
             'APP_FF',
             'IDDL_FF',
-            "mass"
+            col_mass
         ]
         inputs = tf.convert_to_tensor(flight[cols_input], dtype=tf.float32)
         ff_to = tf.convert_to_tensor(flight[["TO_FF"]], dtype=tf.float32)
