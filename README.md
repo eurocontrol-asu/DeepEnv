@@ -82,11 +82,13 @@ fe = FuelEstimator(
 ## Credits
 
 ```bibtex
-@inproceedings{jarry2024towards,
+
+TO UPDATE
+@inproceedings{jarry2024generelization,
   title={On the Generalization Properties of Deep Learning
 for Aircraft Fuel Flow Estimation Models},
   author={Jarry, Gabriel and Very, Philippe and Dalmau, Ramon and Sun, Junzi},
-  booktitle={SESAR Innovation Days},
+  booktitle={SESAR Innovation Days 2024},
   year={2024}
 ```
 
