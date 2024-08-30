@@ -84,7 +84,7 @@ fe = FuelEstimator(
 @inproceedings{jarry2024towards,
   title={On the Generalization Properties of Deep Learning
 for Aircraft Fuel Flow Estimation Models},
-  author={Jarry, Gabriel and Very, Philippea and Dalmau, Ramon and Sun, Junzi},
+  author={Jarry, Gabriel and Very, Philippe and Dalmau, Ramon and Sun, Junzi},
   booktitle={SESAR Innovation Days},
   year={2024}
 ```
