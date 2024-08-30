@@ -78,6 +78,7 @@ fe = FuelEstimator(
 
 #### Fuel models :
 - DeepBADA4.2.1 (need a Bada Licence)
+- Acropole : https://github.com/DGAC/Acropole/tree/main/acropole (under AGPL licencing)
 
 ## Credits
 
