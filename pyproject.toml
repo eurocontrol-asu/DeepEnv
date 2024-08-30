@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "DeepEnv"
+version = "0.1.0"
+homepage = "https://github.com"
+repository = "https://github.com"
+description = "Open-source library to assess aircraft enviromental impact from trajectory data using machine learning models"
+authors = ["Gabriel JARRY <gabriel.jarry@eurocontrol.int>"]
+license = ""
+readme = "README.md"
+
+packages = [{ include = "DeepEnv", from = "." }]
+include = ["LICENSE"]
+
+[tool.poetry.dependencies]
+python = ">=3.9"
+scipy = ">=1.13"
+joblib = ">=1.4"
+pandas = ">=2.2"
+scikit-learn = ">=1.4"
+numpy = ">=1.23"
+keras = "^3.3"
+tensorflow = "^2.16"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
