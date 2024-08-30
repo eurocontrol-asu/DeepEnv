@@ -77,7 +77,7 @@ fe = FuelEstimator(
 ## Avalaible Models
 
 #### Fuel models :
-- DeepBADA4.2.1 (need a Bada Licence)
+- DeepBada4.2.1_FUEL_FLOW_V0.1 (need a Bada Licence)
 
 ## Credits
 
