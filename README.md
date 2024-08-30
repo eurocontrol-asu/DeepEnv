@@ -19,7 +19,7 @@ conda activate deepenv
 Install this library:
 
 ```sh
-git clone TODO
+git clone https://github.com/JarryGabriel/DeepEnv.git
 cd deepenv
 pip install .
 
