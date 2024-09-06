@@ -88,10 +88,11 @@ for Aircraft Fuel Flow Estimation Models},
   author={Jarry, Gabriel and Very, Philippe and Dalmau, Ramon and Sun, Junzi},
   booktitle={Submitted to SESAR Innovation Days 2024},
   year={2024}
+}
 ```
 
 ## Credits
 
 
 
-}
+
