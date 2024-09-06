@@ -76,21 +76,22 @@ fe = FuelEstimator(
 
 ## Avalaible Models
 
+## In coming Models
+
 #### Fuel models :
-- DeepBada4.2.1_FUEL_FLOW_V0.1 (need a Bada Licence)
-
-## Credits
-
+- DeepBada4.2.1_FUEL_FLOW_V0.1 (need a Bada Licence) from following paper submitted
+  
 ```bibtex
-
-TO UPDATE
 @inproceedings{jarry2024generelization,
   title={On the Generalization Properties of Deep Learning
 for Aircraft Fuel Flow Estimation Models},
   author={Jarry, Gabriel and Very, Philippe and Dalmau, Ramon and Sun, Junzi},
-  booktitle={SESAR Innovation Days 2024},
+  booktitle={Submitted to SESAR Innovation Days 2024},
   year={2024}
 ```
+
+## Credits
+
 
 
 }
