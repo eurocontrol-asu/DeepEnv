@@ -1,4 +1,4 @@
-# <img src="https://github.com/JarryGabriel/DeepEnv/blob/main/logo.png" width="300">
+# <img src="https://github.com/JarryGabriel/DeepEnv/blob/main/logo.png" width="250">
 
 This repository contains the DeepEnv library to use deep learning models for aircraft environmental impact assessment.
 
