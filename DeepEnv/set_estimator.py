@@ -45,7 +45,34 @@ class SetEstimator:
             tf.saved_model.DEFAULT_SERVING_SIGNATURE_DEF_KEY
         ]
 
-    def estimate(self, flight: pd.DataFrame, **kwargs) -> pd.DataFrame:
+    def estimate(self, flight: pd.DataFrame, **kwargs) -> (float, int):
+        """
+            Return the probability of single engine taxiing and give an estimate of the index of start
+
+            The minimum set of features are:
+                - flight (pd.DataFrame): The flight data as a pandas DataFrame.
+                - groundspeed (str): The column name for the groundspeed (in knot).
+                    Default is "groundspeed".
+                - altitude (str): The column name for the altitude (in feet).
+                    Default is "altitude".
+                - track_angle (str): The column name for the track angle (in °).
+                    Default is "track_angle".
+                - second (str): The column name for the timestamp (in second).
+                    Default is "second".
+                - on_taxiway (str): The column name for the on_taxiway (0, 1).
+                    Default is "on_taxiway".
+
+            Returns:
+                (float, int) : A tuple of the probability of being a single engine taxi and the estimate start index.
+              Note:
+
+                - When the `second` column is provided, the set estimator is more accurate,
+                    especially due to **derivatives of speeds and track angle** used in the model.
+                - Expected sampling rate is 1 seconds, higher or lower sampling rate might induce errors. Resampling data before applying the set estimator is recommanded.
+
+            For an example of use, refer to `examples/set_estimator/example.ipynb`
+
+        """
 
         col_groundspeed = kwargs.get("groundspeed", "groundspeed")
         col_altitude = kwargs.get("altitude", "altitude")
