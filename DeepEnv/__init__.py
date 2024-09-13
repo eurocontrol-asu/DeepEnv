@@ -1,1 +1,2 @@
-from .estimator import FuelEstimator
+from .fuel_estimator import FuelEstimator
+from .set_estimator import SetEstimator
