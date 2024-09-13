@@ -114,7 +114,12 @@ pip install .
 To cite this python library use:
 
   ```bibtex
-  TODO
+  @misc{jarry2024deepenv,
+    title={DeepEnv: Python library for aircraft environmental impact assessment using Deep Learning},
+    author={Jarry, Gabriel and Very, Philippe and Dalmau, Ramon and Sun, Junzi},
+    year={2024},
+    note={\url{https://doi.org/10.5281/zenodo.13754838}, \url{https://github.com/eurocontrol-asu/DeepEnv}}
+  }
   ```
 
 
