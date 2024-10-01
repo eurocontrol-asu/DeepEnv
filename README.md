@@ -1,6 +1,7 @@
 <!--  <img src="https://github.com/JarryGabriel/DeepEnv/blob/main/logo.png" width="250">  -->
 # DeepEnv
-This repository contains the DeepEnv library to use deep learning models for aircraft environmental impact assessment.
+This repository contains the DeepEnv library to use deep learning models for aircraft environmental impact assessment. It aims to share the research efforts of the Aviation Sustainability Unit. Please acknowledge that <ins>**this repository is not a regulatory framework and should not be used for operational purposes, only for research.**</ins>
+
 
 ## Easy Install
 
