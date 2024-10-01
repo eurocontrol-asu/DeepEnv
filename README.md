@@ -4,8 +4,8 @@
 
 
 # DeepEnv
-<img style='border: 1px solid black' align="right" width="180" src="https://ansperformance.eu/images/EUROCONTROL-logo-standard-rgb.png" alt="EUROCONTROL logo" />
-This repository hosts the DeepEnv library, a collection of research initiatives from the EUROCONTROL Aviation Sustainability Unit. DeepEnv is designed to facilitate the use, construction and experimentation of deep learning models for assessing the environmental impact of aviation. DeepEnv models and codes are made available under a EUPL-1.2 license.
+
+This repository hosts the DeepEnv library, a collection of research initiatives from the EUROCONTROL Aviation Sustainability Unit and partners. DeepEnv is designed to facilitate the use, construction and experimentation of deep learning models for assessing the environmental impact of aviation. DeepEnv models and codes are made available under a EUPL-1.2 license.
 
 &nbsp;
 
