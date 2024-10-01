@@ -1,6 +1,6 @@
 <!--  <img src="https://github.com/JarryGabriel/DeepEnv/blob/main/logo.png" width="250">  -->
 # DeepEnv
-This repository contains the DeepEnv library to build and use deep learning models for aircraft environmental impact assessment. It aims to share the research efforts of the Aviation Sustainability Unit. Please acknowledge that <ins>**this repository is not a regulatory framework and should not be used for operational purposes, only for research.**</ins>
+This repository hosts the DeepEnv library, a collection of research initiatives from the EUROCONTROL Aviation Sustainability Unit. DeepEnv is designed to facilitate the use, construction and experimentation of deep learning models for assessing the environmental impact of aviation. <ins>**Please note that this repository does not constitute a regulatory framework and should only be used for research purposes, not for operational applications.**</ins>
 
 
 ## Easy Install
@@ -23,7 +23,6 @@ Install this library:
 git clone https://github.com/eurocontrol-asu/DeepEnv.git
 cd deepenv
 pip install .
-
 ```
 
 ## Avalaible Models
@@ -109,6 +108,26 @@ pip install .
     year={2024}
   }
   ```
+
+
+## Avalaible Training Process
+
+### DeepContrail
+
+  This module aim at building deep learning models to detect contrails on remote sensors (satellite, cameras...)
+
+  **WORK IN PROGRESS**
+
+  This code was use in the following paper: 
+  ```bibtex
+  @inproceedings{jarry2024segmentation,
+    title={Deep Semantic Contrails Segmentation of GOES-16 Satellite Images: An Hyperparameter Exploration},
+    author={Jarry, Gabriel and Torjman--Levavasseur, Valentin and Very, Philippe and Heffar, Amine},
+    booktitle={Submitted to SESAR Innovation Days 2024},
+    year={2024}
+  }
+  ```
+
 
 ## Credits
 
