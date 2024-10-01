@@ -122,7 +122,7 @@ pip install .
 
 ## Avalaible Training Process
 
-### DeepContrail
+### DeepContrails
 
   This module aim at building deep learning models to detect contrails on remote sensors (satellite, cameras...)
 
