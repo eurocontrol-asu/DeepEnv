@@ -55,11 +55,11 @@ pip install .
   
   This model is the implementation of the following paper: 
   ```bibtex
-  @inproceedings{jarry2024taxiing,
-    title={On the Detection of Aircraft Single Engine Taxi using Deep Learning Models},
-    author={Jarry, Gabriel and Very, Philippe and Dalmau, Ramon and Delahaye, Daniel and Houndant, Arhtur},
-    booktitle={Submitted to SESAR Innovation Days 2024},
-    year={2024}
+  @article{jarry2024detection,
+  title={On the Detection of Aircraft Single Engine Taxi using Deep Learning Models},
+  author={Jarry, Gabriel and Very, Philippe and Dalmau, Ramon and Delahaye, Daniel and Houdant, Arthur},
+  journal={arXiv preprint arXiv:2410.07727},
+  year={2024}
   }
   ```
 
@@ -110,12 +110,11 @@ pip install .
   
   This model is the implementation of the following paper: 
   ```bibtex
-  @inproceedings{jarry2024generalization,
-    title={On the Generalization Properties of Deep Learning
-  for Aircraft Fuel Flow Estimation Models},
-    author={Jarry, Gabriel and Very, Philippe and Dalmau, Ramon and Sun, Junzi},
-    booktitle={Submitted to SESAR Innovation Days 2024},
-    year={2024}
+  @article{jarry2024generalization,
+  title={On the Generalization Properties of Deep Learning for Aircraft Fuel Flow Estimation Models},
+  author={Jarry, Gabriel and Dalmau, Ramon and Very, Philippe and Sun, Junzi},
+  journal={arXiv preprint arXiv:2410.07717},
+  year={2024}
   }
   ```
 
