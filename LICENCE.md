@@ -23,7 +23,7 @@ the country mentioned in Article 15.
 modify.
 * *The Executable Code*:any code which has generally been compiled and which is meant to be interpreted by
 a computer as a program.
-* *The Licensor*:the natural or legal person that distributes or communicates the Work under the Licence (“EUROCONTROL”, the European Organisation for the Safety of Air Navigation).
+* *The Licensor*:the natural or legal person that distributes or communicates the Work under the Licence.
 * *Contributor(s)*:any natural or legal person who modifies the Work under the Licence, or otherwise contributes to
 the creation of a Derivative Work.
 * *The Licensee* or *You*:any natural or legal person who makes any usage of the Work under the terms of the
@@ -90,10 +90,6 @@ Legal Protection: This Licence does not grant permission to use the trade names,
 of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and
 reproducing the content of the copyright notice.
 
-**Legal Protection**: This Licence does not grant permission to use the official emblems, trade names, trademarks, 
-service marks, or names of the Licensor, except as required for reasonable and customary use in describing the origin 
-of the Work and reproducing the content of the copyright notice.
-
 ## 6. Chain of Authorship
 The original Licensor warrants that the copyright in the Original Work granted hereunder is owned by him/her or
 licensed to him/her and that he/she has the power and authority to grant the Licence.
@@ -125,20 +121,6 @@ responsibility, not on behalf of the original Licensor or any other Contributor,
 defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against such Contributor by
 the fact You have accepted any warranty or additional liability.
 
-### 9a. Processing of personal data
-Licensee processes the personal data it receives from Licensor under this Agreement for the sole purpose of making 
-use of the Work under the terms of the License. EUROCONTROL processes the personal data in accordance with the EUROCONTROL 
-Regulation on Personal Data Protection.  
-
-Licensor processes the personal data it receives from the Licensee under the Licence for the sole purpose 
-of distributing or communicates the Work under the Licence. Licensee processes the personal data in 
-accordance with the data protection laws applicable to Licensee. 
-
-To protect the personal data, the Licensee and Licensor shall implement appropriate organisational, 
-technical and physical measures which shall be kept up to date in accordance with generally accepted standards.
-
-
-
 ## 10. Acceptance of the Licence
 The provisions of this Licence can be accepted by clicking on an icon *I agree* placed under the bottom of a window
 displaying the text of this Licence or by affirming consent in any other similar way, in accordance with the rules of
@@ -163,16 +145,29 @@ the Licence, provided such persons remain in full compliance with the Licence.
 ## 13. Miscellaneous
 Without prejudice of Article 9 above, the Licence represents the complete agreement between the Parties as to the
 Work.
-If any provision of the Licence is invalid or unenforceable under applicable law, this will not affect the 
-validity or enforceability of the Licence as a whole. Such provision will be construed or reformed so as necessary 
-to make it valid and enforceable
+If any provision of the Licence is invalid or unenforceable under applicable law, this will not affect the validity or
+enforceability of the Licence as a whole. Such provision will be construed or reformed so as necessary to make it valid
+and enforceable.
+The European Commission may publish other linguistic versions or new versions of this Licence or updated versions of
+the Appendix, so far this is required and reasonable, without reducing the scope of the rights granted by the Licence.
+New versions of the Licence will be published with a unique version number.
+All linguistic versions of this Licence, approved by the European Commission, have identical value. Parties can take
+advantage of the linguistic version of their choice.
 
 ## 14. Jurisdiction
-Without prejudice to specific agreement between parties, any litigation arising between other parties and resulting 
-from the interpretation of this License, will be subject to the exclusive jurisdiction of the competent courts of Belgium.
+Without prejudice to specific agreement between parties,
+* any litigation resulting from the interpretation of this License, arising between the European Union institutions,
+bodies, offices or agencies, as a Licensor, and any Licensee, will be subject to the jurisdiction of the Court of Justice
+of the European Union, as laid down in article 272 of the Treaty on the Functioning of the European Union,
+* any litigation arising between other parties and resulting from the interpretation of this License, will be subject to
+the exclusive jurisdiction of the competent court where the Licensor resides or conducts its primary business.
 
 ## 15. Applicable Law
-Without prejudice to specific agreement between parties, this Licence shall be governed by the law of Belgium.  
+Without prejudice to specific agreement between parties,
+* this Licence shall be governed by the law of the European Union Member State where the Licensor has his seat,
+resides or has his registered office,
+* this licence shall be governed by Belgian law if the Licensor has no seat, residence or registered office inside
+a European Union Member State.
 
 ## Appendix
 
@@ -188,5 +183,7 @@ Without prejudice to specific agreement between parties, this Licence shall be g
 * Creative Commons Attribution-ShareAlike v. 3.0 Unported (CC BY-SA 3.0) for works other than software
 * European Union Public Licence (EUPL) v. 1.1, v. 1.2
 * Québec Free and Open-Source Licence — Reciprocity (LiLiQ-R) or Strong Reciprocity (LiLiQ-R+).
-The Licensor may update this Appendix to later versions of the above licences without producing a new version of the EUPL, as long as they provide the rights granted in Article 2 of this Licence and protect the covered Source Code from exclusive appropriation.
+The European Commission may update this Appendix to later versions of the above licences without producing
+a new version of the EUPL, as long as they provide the rights granted in Article 2 of this Licence and protect the
+covered Source Code from exclusive appropriation.
 All other changes or additions to this Appendix require the production of a new EUPL version.
