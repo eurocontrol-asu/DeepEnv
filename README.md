@@ -55,14 +55,11 @@ pip install .
   
   This model is the implementation of the following paper: 
   ```bibtex
-  @article{jarry2025generalization,
-  title={On the generalization properties of deep learning for aircraft fuel flow estimation models},
-  author={Jarry, Gabriel and Dalmau, Ramon and Very, Philippe and Sun, Junzi},
-  journal={Transportation Research Part C: Emerging Technologies},
-  volume={176},
-  pages={105143},
-  year={2025},
-  publisher={Elsevier}
+@article{jarry2024detection,
+  title={On the Detection of Aircraft Single Engine Taxi using Deep Learning Models},
+  author={Jarry, Gabriel and Very, Philippe and Dalmau, Ramon and Delahaye, Daniel and Houdant, Arthur},
+  journal={arXiv preprint arXiv:2410.07727},
+  year={2024}
 }
   ```
 
@@ -113,12 +110,15 @@ pip install .
   
   This model is the implementation of the following paper: 
   ```bibtex
-  @article{jarry2024generalization,
-  title={On the Generalization Properties of Deep Learning for Aircraft Fuel Flow Estimation Models},
+@article{jarry2025generalization,
+  title={On the generalization properties of deep learning for aircraft fuel flow estimation models},
   author={Jarry, Gabriel and Dalmau, Ramon and Very, Philippe and Sun, Junzi},
-  journal={arXiv preprint arXiv:2410.07717},
-  year={2024}
-  }
+  journal={Transportation Research Part C: Emerging Technologies},
+  volume={176},
+  pages={105143},
+  year={2025},
+  publisher={Elsevier}
+}
   ```
 
 
