@@ -55,12 +55,15 @@ pip install .
   
   This model is the implementation of the following paper: 
   ```bibtex
-  @article{jarry2024detection,
-  title={On the Detection of Aircraft Single Engine Taxi using Deep Learning Models},
-  author={Jarry, Gabriel and Very, Philippe and Dalmau, Ramon and Delahaye, Daniel and Houdant, Arthur},
-  journal={arXiv preprint arXiv:2410.07727},
-  year={2024}
-  }
+  @article{jarry2025generalization,
+  title={On the generalization properties of deep learning for aircraft fuel flow estimation models},
+  author={Jarry, Gabriel and Dalmau, Ramon and Very, Philippe and Sun, Junzi},
+  journal={Transportation Research Part C: Emerging Technologies},
+  volume={176},
+  pages={105143},
+  year={2025},
+  publisher={Elsevier}
+}
   ```
 
 ## In coming Models
